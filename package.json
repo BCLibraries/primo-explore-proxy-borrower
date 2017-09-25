@@ -1,0 +1,19 @@
+{
+  "name": "primo-explore-proxy-borrower",
+  "version": "0.0.1",
+  "description": "Add a link to the proxy borrower form in My Accounts Overview",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCLibraries/primo-explore-proxy-borrower.git"
+  },
+  "keywords": [
+    "primo"
+  ],
+  "author": "Luke Gaudreau",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/BCLibraries/primo-explore-proxy-borrower/issues"
+  },
+  "homepage": "https://github.com/BCLibraries/primo-explore-proxy-borrower#readme"
+}
